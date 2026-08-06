@@ -4,7 +4,7 @@
 .navbar{
     background-color: #977da8;
 }
-.initial, .card-title{
+.initial, .card-title, .edu{
     color: #866e96;
 }
 .btn{
@@ -15,9 +15,10 @@
     color: white;
 }
 .custom-shadow {
-    box-shadow: 0 4px 12px 0 #b07ed1; 
+    box-shadow: 0 4px 12px 0 #ba8cd8; 
 }
 
 .skill{
     background-color: #f8f8f8;
 }
+
