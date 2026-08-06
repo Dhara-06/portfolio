@@ -1,0 +1,19 @@
+.navbar-nav .nav-link:hover {
+    color: white;
+}
+.navbar{
+    background-color: #977da8;
+}
+.initial, .card-title{
+    color: #866e96;
+}
+.btn{
+    background-color: #806691;
+}
+.btn:hover{
+    background-color: #a587b9;
+    color: white;
+}
+.custom-shadow {
+    box-shadow: 0 4px 12px 0 #806691; 
+}
