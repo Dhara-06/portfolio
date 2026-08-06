@@ -15,5 +15,9 @@
     color: white;
 }
 .custom-shadow {
-    box-shadow: 0 4px 12px 0 #806691; 
+    box-shadow: 0 4px 12px 0 #b07ed1; 
+}
+
+.skill{
+    background-color: #f8f8f8;
 }
