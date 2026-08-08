@@ -1,7 +1,7 @@
 .navbar-nav .nav-link:hover {
     color: white;
 }
-.navbar{
+.navbar, .bad{
     background-color: #977da8;
 }
 .initial, .card-title, .edu{
@@ -9,13 +9,14 @@
 }
 .btn{
     background-color: #806691;
+    color: white
 }
 .btn:hover{
-    background-color: #a587b9;
+    background-color: #c4a4da;
     color: white;
 }
 .custom-shadow {
-    box-shadow: 0 4px 12px 0 #a171c0; 
+    box-shadow: 0 4px 8px 0 #b485d3; 
 }
 
 .skill{
